@@ -2,7 +2,7 @@ This is a fork of the damiafuentes djitellopy repo https://github.com/damiafuent
 
 Code Your Drone students will be modifying and adding to this repo.
 
-(CodeYourDrone.com)[https://www.codeyourdrone.com]
+[CodeYourDrone.com](https://www.codeyourdrone.com)
 
 ---
 
