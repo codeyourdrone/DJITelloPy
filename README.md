@@ -1,3 +1,11 @@
+This is a fork of the damiafuentes djitellopy repo https://github.com/damiafuentes/DJITelloPy
+
+Code Your Drone students will be modifying and adding to this repo.
+
+(CodeYourDrone.com)[https://www.codeyourdrone.com]
+
+---
+
 # DJITelloPy
 ## [中文文档 (Chinese version of this readme)](README_CN.md)
 
